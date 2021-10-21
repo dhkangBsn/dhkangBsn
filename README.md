@@ -15,7 +15,8 @@
   <img src="https://img.shields.io/badge/Node-RED-8F0000?style=flat-square&logo=Node-RED&logoColor=white"/>
 </div>
 <div>
-  > dhkang.bsn@gmail.com
+  <b>Email</b>
+  <pre>dhkang.bsn@gmail.com</pre>
  </div>
   <!--
 **dhkangBsn/dhkangBsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
