@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse Mosquitto-3C5280?style=flat-square&logo=Eclipse Mosquitto&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node-RED-8F0000?style=flat-square&logo=Node-RED&logoColor=white"/>
 </div>
   <!--
 **dhkangBsn/dhkangBsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
